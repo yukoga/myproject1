@@ -5,6 +5,6 @@ public class HelloWorld {
 		System.out.print("Practice git.");
 		System.out.print("Hello World!");
 		System.out.print("日本語を追加！");
-//		System.out.print("ほげほげ");
+		System.out.print("ほげほげ");
 	}
 }

@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.print("Hello World!");
 		System.out.print("日本語を追加！");
 		System.out.print("ここは master branch");
+		System.out.print("ここは master branch");
 	}
 }

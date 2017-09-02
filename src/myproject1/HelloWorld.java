@@ -1,6 +1,5 @@
 package myproject1;
 
-// add additional comments.
 public class HelloWorld {
 	public static void main(String[] args) {
 		// here is additional comment.

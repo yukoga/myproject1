@@ -5,10 +5,6 @@ public class HelloWorld {
 		System.out.print("Practice git.");
 		System.out.print("Hello World!");
 		System.out.print("日本語を追加！");
-<<<<<<< HEAD
 		System.out.print("ほげほげーふがふが");
-=======
-		System.out.print("ほげほげああああああ");
->>>>>>> branch 'master' of https://github.com/yukoga/myproject1.git
 	}
 }
